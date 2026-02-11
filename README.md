@@ -12,16 +12,9 @@ I’m a developer who enjoys building reliable, well-structured software and lea
 ![](https://nirzak-streak-stats.vercel.app/?user=Ryusen9&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryusen9&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ryusen9&theme=gotham&no-frame=true&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ryusen9&limit=5&theme=gotham&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=Ryusen9&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
